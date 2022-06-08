@@ -1,7 +1,5 @@
-from importlib.resources import path
 from tkinter import messagebox
 import turtle
-from typing import final
 
 # set up the screen
 screen = turtle.Screen()
